@@ -10,6 +10,7 @@ El objetivo del proyecto es desarrollar modelos predictivos basados en datos EEG
   - **processed/**: Datos EEG procesados en formato JSON, listos para análisis y modelado.
   - **models/**: Modelos de machine learning entrenados.
 - **logic/**: Scripts en Python que contienen toda la lógica de procesamiento y análisis.
+- **information/**: Otros archivos relevantes.
 - **README.md**: Este archivo, que proporciona una visión general del proyecto y guía de uso.
 
 ### Prerrequisitos
