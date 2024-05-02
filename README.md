@@ -1,6 +1,8 @@
 # TFM
 Trabajo fin de máster - Análisis de Interfaces Cerebro-Ordenador: Clasificación de señales EEG mediante CNN.
 
+El objetivo del proyecto es desarrollar modelos predictivos basados en datos EEG que puedan ser utilizados en aplicaciones médicas o de investigación.
+
 ## Estructura del Repositorio
 
 - **data/**: Datos utilizados y generados por el proyecto.
