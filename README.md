@@ -1,2 +1,17 @@
 # TFM
-Trabajo fin de máster - Análisis de Interfaces Cerebro-Ordenador: Clasificación de señales EEG mediante CNN
+Trabajo fin de máster - Análisis de Interfaces Cerebro-Ordenador: Clasificación de señales EEG mediante CNN.
+
+## Estructura del Repositorio
+
+- **data/**: Datos utilizados y generados por el proyecto.
+  - **raw/**: Registros EEG en formato original EDF.
+  - **preprocessed/**: Datos EEG preprocesados en formato JSON.
+  - **processed/**: Datos EEG procesados en formato JSON, listos para análisis y modelado.
+  - **models/**: Modelos de machine learning entrenados.
+- **logic/**: Scripts en Python que contienen toda la lógica de procesamiento y análisis.
+- **README.md**: Este archivo, que proporciona una visión general del proyecto y guía de uso.
+
+## Comenzando
+
+### Prerrequisitos
+Asegúrate de tener Python instalado en tu máquina (versión 3.6 o superior).
