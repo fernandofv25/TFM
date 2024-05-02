@@ -16,7 +16,7 @@ El objetivo del proyecto es desarrollar modelos predictivos basados en datos EEG
 ### Prerrequisitos
 Asegúrate de tener Python instalado en tu máquina (versión 3.6 o superior).
 
-### Lógica
+### Lógica Python
 
 - **0_Download.ipynb**: Este archivo se utiliza para descargar o recopilar los datos necesarios para el proyecto desde fuentes externas.
 - **1_Introduccion.ipynb**: En este archivo se encuentra la introducción al proyecto. Contiene información sobre la estructura de los datos, así como detalles sobre el tiempo de registro, los canales utilizados, etc.
