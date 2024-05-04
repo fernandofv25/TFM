@@ -14,11 +14,11 @@ El objetivo del proyecto es desarrollar modelos predictivos basados en datos EEG
 - **README.md**: Este archivo, que proporciona una visión general del proyecto y guía de uso.
 
 ### Prerrequisitos
-Asegúrate de tener Python instalado en tu máquina (versión 3.6 o superior).
+Se requiere tener instalado Python (versión 3.6 o superior) en tu máquina para ejecutar el proyecto.
 
 ### Lógica Python
 
-- **0_Download.ipynb**: Este archivo se utiliza para descargar o recopilar los datos necesarios para el proyecto desde fuentes externas.
-- **1_Introduccion.ipynb**: En este archivo se encuentra la introducción al proyecto. Contiene información sobre la estructura de los datos, así como detalles sobre el tiempo de registro, los canales utilizados, etc.
-- **2_Preprocesado.ipynb**: Este archivo se centra en el preprocesamiento de los datos.
-- **3_Clasificacion.ipynb**: En este archivo se lleva a cabo la etapa de clasificación. Aquí se aplican algoritmos de aprendizaje automático con la librería TensorFlow para clasificar o predecir resultados basados en los datos preprocesados.
+- **0_Download.ipynb**: Se encarga de la descarga o recopilación de los datos necesarios para el proyecto desde fuentes externas.
+- **1_Introduccion.ipynb**: Proporciona una introducción detallada al proyecto, incluyendo información sobre la estructura de los datos, tiempo de registro y canales utilizados.
+- **2_Preprocesado.ipynb**: Enfocado en el preprocesamiento de los datos EEG para su posterior análisis.
+- **3_Clasificacion.ipynb**: Realiza la etapa de clasificación, aplicando algoritmos de aprendizaje automático utilizando la librería TensorFlow para predecir resultados basados en los datos preprocesados.
